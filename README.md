@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rachan-Bangera/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Rachan-Bangera/leetcode/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rachan-Bangera/leetcode/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rachan-Bangera/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rachan-Bangera/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
